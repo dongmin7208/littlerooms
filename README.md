@@ -10,8 +10,8 @@
 -   [❗Realization](#realization)
 
 ### 🗼Screen
+![littlerooms](https://user-images.githubusercontent.com/85716180/125405834-1db6a800-e3f3-11eb-94bb-81a57acdc177.gif)
 
-![FRONT](./image/readme/littlerooms.gif)
 
 
 #### 📦How to run
